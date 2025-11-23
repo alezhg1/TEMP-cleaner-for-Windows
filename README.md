@@ -570,9 +570,8 @@ cleanmgr  # Встроенная утилита Windows
 
 ## 👨‍💻 Автор
 
-**Ваше Имя**
-- GitHub: [alezgh1](https://github.com/alezgh1)
-- Telegram: @newzellandtg
+- GitHub: [alez](https://github.com/alezhg1)
+- Telegram: newzellandtg
 
 ---
 
